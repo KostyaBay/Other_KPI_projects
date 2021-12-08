@@ -1,4 +1,4 @@
-package MathMod.src;
+package MathMod.bonus_task;
 
 import java.text.DecimalFormat;
 
