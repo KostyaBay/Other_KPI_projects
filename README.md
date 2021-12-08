@@ -23,7 +23,7 @@ ____
          - експоненційну.
     Порівняти їх ефективність за коефіцієнтом детермінації та обрати найкращу модель.
     Лабораторну роботу можна виконувати у будь-якому програмному середовищі.
-    [a link] (https://docs.google.com/document/d/1wpJ29nUU2k89eDd131mpduJnrDmEak7W/edit)
+   https://docs.google.com/document/d/1wpJ29nUU2k89eDd131mpduJnrDmEak7W/edit
  ____
   ### :white_check_mark: Task of the lab(lab_2):
     Розв’язання задач лінійного програмування симплекс-методом.
@@ -34,8 +34,8 @@ ____
     У випадку, якщо студентів в групі більше ніж варіантів, то останні з списком студенти обирають
     початкові варіанти. Якщо у групі 22 студенти, а варіантів - 20. Тоді 21-ий студент обирає
     перший варіант, 22-ий – другий.
-    [a link] (https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all)
-    [a link] (https://drive.google.com/file/d/1YaOUM4trkYGhN_wGPGWxgaXU5adu9vr5/view)
+   https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all
+   https://drive.google.com/file/d/1YaOUM4trkYGhN_wGPGWxgaXU5adu9vr5/view
  ____
   ### :white_check_mark: Task of the lab(lab_3):
     Наближене обчислення площі фігури методом Монте-Карло.
@@ -47,9 +47,9 @@ ____
     значенням площі.
     3) Представити алгоритм вирішення задачі, детально показавши операції визначення
     приналежності випадкової точки до досліджуваної фігурі.
-    [a link] (https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all)
+   https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all
  ____
-  ### Task of the lab(lab_3):
+  ### Task of the lab(lab_4):
     Аналіз та математичне моделювання COVID-19 за моделлю SIR.
  #### Завдання:
      Лабораторну роботу можна виконувати в Kaggle, Colaboratory, IPython Notebook (або
@@ -68,4 +68,4 @@ ____
     6) Визначити коли в країні не залишиться хворих на Covid-2019.
     7) Порівняти отримані результати для обраних країн.
     8) Отримані результати оформити у вигляді звіту до лабораторної роботи.
-    [a link] (https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all)
+   https://classroom.google.com/u/3/w/MzIwMTI3Nzk2MDA2/t/all
